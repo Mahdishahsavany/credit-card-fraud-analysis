@@ -1,0 +1,9 @@
+pandas>=2.2
+numpy
+matplotlib>=3.10
+scipy
+jupyter
+# The first notebook cell still imports these packages (they are not used in the analysis):
+seaborn
+sqlalchemy
+pymysql
